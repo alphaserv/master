@@ -1,0 +1,9 @@
+/home/bram/alphaserv-master/script/package/cubescript_library.lua
+/home/bram/alphaserv-master/bin/utils/luapp
+/home/bram/alphaserv-master/lib/libgeoip.so
+/home/bram/alphaserv-master/lib/liblua.so
+/home/bram/alphaserv-master/lib/libfungu_string.a
+/home/bram/alphaserv-master/lib/libfungu_http.a
+/home/bram/alphaserv-master/lib/liblsqlite3.a
+/home/bram/alphaserv-master/lib/libluasql_mysql.so
+/home/bram/alphaserv-master/lib/libsocket.so

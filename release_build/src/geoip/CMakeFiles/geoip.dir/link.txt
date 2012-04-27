@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC    -shared -Wl,-soname,libgeoip.so -o libgeoip.so CMakeFiles/geoip.dir/GeoIP.c.o CMakeFiles/geoip.dir/GeoIPCity.c.o 

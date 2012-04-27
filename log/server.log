@@ -1,0 +1,804 @@
+[Sun 15 Apr 19:26:04] server started
+[Sun 15 Apr 19:26:04] => memory usage: 512Kb (349Kb on init) diff: 163Kb
+[Sun 15 Apr 19:26:04] Event shutdown 0
+[Sun 15 Apr 19:15:52] server started
+[Sun 15 Apr 19:15:52] => memory usage: 483Kb (349Kb on init) diff: 134Kb
+[Sun 15 Apr 19:16:13] Event connect killme_nl(0)[192.168.0.103][]
+[Sun 15 Apr 19:16:13] Event mapvote killme_nl(0)[192.168.0.103][] reissen insta ctf
+[Sun 15 Apr 19:16:13] Event mapchange reissen insta ctf
+[Sun 15 Apr 19:17:29] Event mapvote killme_nl(0)[192.168.0.103][] dust2 insta ctf
+[Sun 15 Apr 19:17:29] Event mapchange dust2 insta ctf
+[Sun 15 Apr 19:20:58] Event disconnect killme_nl(0)[192.168.0.103][] normal
+[Sun 15 Apr 19:26:09] Event shutdown 0
+[Sun 15 Apr 21:00:25] server started
+[Sun 15 Apr 21:00:25] => memory usage: 470Kb (349Kb on init) diff: 121Kb
+[Sun 15 Apr 21:00:25] Event shutdown 0
+[Sun 15 Apr 19:26:10] server started
+[Sun 15 Apr 19:26:10] => memory usage: 512Kb (349Kb on init) diff: 163Kb
+[Sun 15 Apr 19:26:18] Event connect killme_nl(0)[192.168.0.103][]
+[Sun 15 Apr 19:26:18] Event mapvote killme_nl(0)[192.168.0.103][] complex ffa
+[Sun 15 Apr 19:26:18] Event mapchange complex ffa
+[Sun 15 Apr 19:27:50] Event disconnect killme_nl(0)[192.168.0.103][] normal
+[Sun 15 Apr 21:00:42] Event shutdown 0
+[Sun 15 Apr 21:00:44] server started
+[Sun 15 Apr 21:00:44] => memory usage: 465Kb (349Kb on init) diff: 116Kb
+[Sun 15 Apr 21:01:22] Event shutdown 0
+[Sun 15 Apr 21:01:24] server started
+[Sun 15 Apr 21:01:41] Event shutdown 0
+[Sun 15 Apr 21:01:42] server started
+[Sun 15 Apr 21:01:54] Event shutdown 0
+[Sun 15 Apr 21:01:55] server started
+[Sun 15 Apr 21:02:09] Event shutdown 0
+[Sun 15 Apr 21:02:53] server started
+[Sun 15 Apr 21:02:53] => memory usage: 543Kb (349Kb on init) diff: 194Kb
+[Sun 15 Apr 21:02:53] Event shutdown 0
+[Sun 15 Apr 21:04:07] server started
+[Sun 15 Apr 21:04:07] => memory usage: 533Kb (349Kb on init) diff: 184Kb
+[Sun 15 Apr 21:04:07] Event shutdown 0
+[Sun 15 Apr 21:04:46] server started
+[Sun 15 Apr 21:04:46] Event shutdown 0
+[Sun 15 Apr 21:05:10] server started
+[Sun 15 Apr 21:05:10] => memory usage: 541Kb (349Kb on init) diff: 192Kb
+[Sun 15 Apr 21:05:10] Event shutdown 0
+[Sun 15 Apr 21:02:11] server started
+[Sun 15 Apr 21:02:11] => memory usage: 532Kb (349Kb on init) diff: 183Kb
+[Sun 15 Apr 21:05:17] Event shutdown 0
+[Sun 15 Apr 21:05:18] server started
+[Sun 15 Apr 21:05:18] => memory usage: 541Kb (349Kb on init) diff: 192Kb
+[Sun 15 Apr 21:05:27] Event connect killme_nl(0)[192.168.0.103][]
+[Sun 15 Apr 21:05:27] Event mapvote killme_nl(0)[192.168.0.103][] complex ffa
+[Sun 15 Apr 21:05:27] Event mapchange complex ffa
+[Sun 15 Apr 21:05:42] Event disconnect killme_nl(0)[192.168.0.103][] normal
+[Sun 15 Apr 22:18:10] Event shutdown 0
+[Sun 15 Apr 22:18:11] server started
+[Sun 15 Apr 22:18:34] Event shutdown 0
+[Sun 15 Apr 22:18:36] server started
+[Sun 15 Apr 22:19:08] Event shutdown 0
+[Sun 15 Apr 22:19:10] server started
+[Sun 15 Apr 22:19:10] => memory usage: 565Kb (349Kb on init) diff: 216Kb
+[Sun 15 Apr 22:19:18] Event connect killme_nl(0)[192.168.0.103][]
+[Sun 15 Apr 22:19:18] Event mapvote killme_nl(0)[192.168.0.103][] complex ffa
+[Sun 15 Apr 22:19:18] Event mapchange complex ffa
+[Sun 15 Apr 22:19:29] Event rename killme(0)[192.168.0.103][] killme_nl killme
+[Sun 15 Apr 22:20:09] Event disconnect killme(0)[192.168.0.103][] normal
+[Sun 15 Apr 22:21:06] Event shutdown 0
+[Sun 15 Apr 22:21:07] server started
+[Sun 15 Apr 22:21:07] => memory usage: 565Kb (349Kb on init) diff: 216Kb
+[Sun 15 Apr 22:21:14] Event connect killme(0)[192.168.0.103][]
+[Sun 15 Apr 22:21:14] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Sun 15 Apr 22:21:14] Event mapchange complex ffa
+[Sun 15 Apr 22:21:38] Event disconnect killme(0)[192.168.0.103][] normal
+[Sun 15 Apr 22:22:19] Event shutdown 0
+[Sun 15 Apr 22:23:06] server started
+[Sun 15 Apr 22:23:06] => memory usage: 565Kb (349Kb on init) diff: 216Kb
+[Sun 15 Apr 22:23:12] Event connect killme(0)[192.168.0.103][]
+[Sun 15 Apr 22:23:12] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Sun 15 Apr 22:23:12] Event mapchange complex ffa
+[Sun 15 Apr 22:23:33] Event disconnect killme(0)[192.168.0.103][] normal
+[Sun 15 Apr 22:23:33] Event connect killme(1)[192.168.0.103][]
+[Sun 15 Apr 22:25:32] Event shutdown 0
+[Sun 15 Apr 22:25:33] server started
+[Sun 15 Apr 22:25:33] => memory usage: 565Kb (349Kb on init) diff: 216Kb
+[Sun 15 Apr 22:25:37] Event connect killme(0)[192.168.0.103][]
+[Sun 15 Apr 22:25:37] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Sun 15 Apr 22:25:37] Event mapchange complex ffa
+[Sun 15 Apr 22:26:48] Event shutdown 0
+[Sun 15 Apr 22:26:49] server started
+[Sun 15 Apr 22:26:49] => memory usage: 565Kb (349Kb on init) diff: 216Kb
+[Sun 15 Apr 22:27:05] Event shutdown 0
+[Sun 15 Apr 22:27:19] server started
+[Sun 15 Apr 22:27:19] => memory usage: 565Kb (349Kb on init) diff: 216Kb
+[Sun 15 Apr 22:27:24] Event connect killme(0)[192.168.0.103][]
+[Sun 15 Apr 22:27:24] Event spectator killme(0)[192.168.0.103][] 1
+[Sun 15 Apr 22:27:24] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Sun 15 Apr 22:27:39] Event disconnect killme(0)[192.168.0.103][] normal
+[Sun 15 Apr 22:27:44] Event shutdown 0
+[Sun 15 Apr 22:27:45] server started
+[Sun 15 Apr 22:27:45] => memory usage: 565Kb (349Kb on init) diff: 216Kb
+[Sun 15 Apr 22:27:52] Event connect killme(0)[192.168.0.103][]
+[Sun 15 Apr 22:27:52] Event spectator killme(0)[192.168.0.103][] 1
+[Sun 15 Apr 22:27:52] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Sun 15 Apr 22:28:03] Event spectator killme(0)[192.168.0.103][] 0
+[Sun 15 Apr 22:28:06] Event mapvote killme(0)[192.168.0.103][] mbt2 ffa
+[Sun 15 Apr 22:28:06] Event mapchange mbt2 ffa
+[Sun 15 Apr 22:28:17] Event disconnect killme(0)[192.168.0.103][] normal
+[Sun 15 Apr 22:28:17] Event connect killme(1)[192.168.0.103][]
+[Sun 15 Apr 22:28:17] Event spectator killme(1)[192.168.0.103][] 1
+[Sun 15 Apr 22:28:55] Event disconnect killme(1)[192.168.0.103][] normal
+[Sun 15 Apr 22:28:59] Event shutdown 0
+[Sun 15 Apr 22:29:01] server started
+[Sun 15 Apr 22:29:01] => memory usage: 565Kb (349Kb on init) diff: 216Kb
+[Sun 15 Apr 22:29:03] Event connect killme(0)[192.168.0.103][]
+[Sun 15 Apr 22:29:03] Event spectator killme(0)[192.168.0.103][] 1
+[Sun 15 Apr 22:29:03] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Sun 15 Apr 22:29:44] Event disconnect killme(0)[192.168.0.103][] normal
+[Sun 15 Apr 22:29:47] Event connect killme(0)[192.168.0.103][]
+[Sun 15 Apr 22:29:47] Event spectator killme(0)[192.168.0.103][] 1
+[Sun 15 Apr 22:29:47] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Sun 15 Apr 22:29:55] Event disconnect killme(0)[192.168.0.103][] normal
+[Sun 15 Apr 22:30:04] Event connect killme(0)[192.168.0.103][]
+[Sun 15 Apr 22:30:04] Event spectator killme(0)[192.168.0.103][] 1
+[Sun 15 Apr 22:30:04] Event mapvote killme(0)[192.168.0.103][] akroseum coop edit
+[Sun 15 Apr 22:30:16] Event disconnect killme(0)[192.168.0.103][] normal
+[Sun 15 Apr 22:30:20] Event shutdown 0
+[Mon 16 Apr 15:17:06] server started
+[Mon 16 Apr 15:17:06] => memory usage: 565Kb (349Kb on init) diff: 216Kb
+[Mon 16 Apr 15:17:14] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 15:17:14] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 15:17:14] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 15:17:50] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 15:17:53] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 15:17:53] Event mapchange dust2 ffa
+[Mon 16 Apr 15:18:11] Event rename name_nl(0)[192.168.0.103][] killme name_nl
+[Mon 16 Apr 15:18:18] Event disconnect name_nl(0)[192.168.0.103][] normal
+[Mon 16 Apr 15:18:18] Event connect name_nl(1)[192.168.0.103][]
+[Mon 16 Apr 15:28:03] Event mapchange dust2 ffa
+[Mon 16 Apr 15:29:13] Event shutdown 0
+[Mon 16 Apr 15:29:15] server started
+[Mon 16 Apr 15:29:15] => memory usage: 565Kb (349Kb on init) diff: 216Kb
+[Mon 16 Apr 15:29:19] Event connect name_nl(0)[192.168.0.103][]
+[Mon 16 Apr 15:29:19] Event mapvote name_nl(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 15:29:19] Event mapchange dust2 ffa
+[Mon 16 Apr 15:32:21] Event shutdown 0
+[Mon 16 Apr 16:19:47] server started
+[Mon 16 Apr 16:19:47] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 16:19:49] Event connect name_nl(0)[192.168.0.103][]
+[Mon 16 Apr 16:19:49] Event mapvote name_nl(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 16:19:49] Event mapchange complex ffa
+[Mon 16 Apr 16:20:34] Event shutdown 0
+[Mon 16 Apr 16:20:36] server started
+[Mon 16 Apr 16:20:36] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 16:20:53] Event shutdown 0
+[Mon 16 Apr 16:21:12] server started
+[Mon 16 Apr 16:21:12] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 16:21:14] Event connect name_nl(0)[192.168.0.103][]
+[Mon 16 Apr 16:21:14] Event spectator name_nl(0)[192.168.0.103][] 1
+[Mon 16 Apr 16:21:14] Event mapvote name_nl(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 16:21:22] Event rename killme_nl(0)[192.168.0.103][] name_nl killme_nl
+[Mon 16 Apr 16:21:35] Event rename killme(0)[192.168.0.103][] killme_nl killme
+[Mon 16 Apr 16:21:50] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 16:21:53] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 16:21:53] Event mapchange dust2 ffa
+[Mon 16 Apr 16:21:57] Event disconnect killme(0)[192.168.0.103][] normal
+[Mon 16 Apr 16:21:57] Event connect killme(1)[192.168.0.103][]
+[Mon 16 Apr 16:21:57] Event spectator killme(1)[192.168.0.103][] 1
+[Mon 16 Apr 16:22:05] Event spectator killme(1)[192.168.0.103][] 0
+[Mon 16 Apr 16:24:04] Event disconnect killme(1)[192.168.0.103][] normal
+[Mon 16 Apr 16:24:04] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 16:24:04] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 16:26:35] Event shutdown 0
+[Mon 16 Apr 16:26:45] server started
+[Mon 16 Apr 16:26:45] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 16:26:48] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 16:26:48] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 16:26:48] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 16:26:53] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 16:26:57] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 16:26:57] Event mapchange dust2 ffa
+[Mon 16 Apr 16:27:02] Event rename a_nl(0)[192.168.0.103][] killme a_nl
+[Mon 16 Apr 16:27:02] Event spectator a_nl(0)[192.168.0.103][] 1
+[Mon 16 Apr 16:27:14] Event rename killme_nl(0)[192.168.0.103][] a_nl killme_nl
+[Mon 16 Apr 16:27:19] Event spectator killme_nl(0)[192.168.0.103][] 0
+[Mon 16 Apr 16:28:36] Event shutdown 0
+[Mon 16 Apr 16:28:48] server started
+[Mon 16 Apr 16:28:48] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 16:28:51] Event connect killme_nl(0)[192.168.0.103][]
+[Mon 16 Apr 16:28:51] Event spectator killme_nl(0)[192.168.0.103][] 1
+[Mon 16 Apr 16:28:52] Event mapvote killme_nl(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 16:28:56] Event spectator killme_nl(0)[192.168.0.103][] 0
+[Mon 16 Apr 16:28:58] Event mapvote killme_nl(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 16:28:58] Event mapchange dust2 ffa
+[Mon 16 Apr 16:29:00] Event disconnect killme_nl(0)[192.168.0.103][] normal
+[Mon 16 Apr 16:29:00] Event connect killme_nl(1)[192.168.0.103][]
+[Mon 16 Apr 16:29:00] Event spectator killme_nl(1)[192.168.0.103][] 1
+[Mon 16 Apr 16:29:04] Event spectator killme_nl(1)[192.168.0.103][] 0
+[Mon 16 Apr 16:39:08] Event mapchange dust2 ffa
+[Mon 16 Apr 16:49:18] Event mapchange dust2 ffa
+[Mon 16 Apr 16:59:28] Event mapchange dust2 ffa
+[Mon 16 Apr 17:09:38] Event mapchange dust2 ffa
+[Mon 16 Apr 17:19:48] Event mapchange dust2 ffa
+[Mon 16 Apr 17:29:58] Event mapchange dust2 ffa
+[Mon 16 Apr 17:40:08] Event mapchange dust2 ffa
+[Mon 16 Apr 17:50:18] Event mapchange dust2 ffa
+[Mon 16 Apr 18:00:28] Event mapchange dust2 ffa
+[Mon 16 Apr 18:10:38] Event mapchange dust2 ffa
+[Mon 16 Apr 18:20:48] Event mapchange dust2 ffa
+[Mon 16 Apr 18:30:58] Event mapchange dust2 ffa
+[Mon 16 Apr 18:41:08] Event mapchange dust2 ffa
+[Mon 16 Apr 18:51:19] Event mapchange dust2 ffa
+[Mon 16 Apr 19:01:29] Event mapchange dust2 ffa
+[Mon 16 Apr 19:05:02] Event disconnect killme_nl(1)[192.168.0.103][] connection timed out
+[Mon 16 Apr 19:05:12] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:05:12] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:05:25] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:06:06] Event disconnect killme(0)[192.168.0.103][] normal
+[Mon 16 Apr 19:06:14] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:06:14] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:06:25] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:06:36] Event disconnect killme(0)[192.168.0.103][] connection timed out
+[Mon 16 Apr 19:07:44] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:07:44] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:07:51] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:09:23] Event disconnect killme(0)[192.168.0.103][] connection timed out
+[Mon 16 Apr 19:09:25] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:09:25] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:09:34] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:13:03] Event mapchange dust2 ffa
+[Mon 16 Apr 19:15:54] Event shutdown 0
+[Mon 16 Apr 19:15:58] server started
+[Mon 16 Apr 19:15:58] => memory usage: 568Kb (347Kb on init) diff: 221Kb
+[Mon 16 Apr 19:16:05] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:16:05] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 19:16:05] Event mapchange complex ffa
+[Mon 16 Apr 19:16:10] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:16:10] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:16:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:16:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:16:36] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:16:36] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:16:38] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:16:38] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:17:21] Event shutdown 0
+[Mon 16 Apr 19:17:22] server started
+[Mon 16 Apr 19:17:22] => memory usage: 568Kb (347Kb on init) diff: 221Kb
+[Mon 16 Apr 19:17:36] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:17:36] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 19:17:36] Event mapchange complex ffa
+[Mon 16 Apr 19:17:40] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:17:42] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:17:50] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:17:52] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:18:23] Event shutdown 0
+[Mon 16 Apr 19:18:24] server started
+[Mon 16 Apr 19:18:24] => memory usage: 568Kb (347Kb on init) diff: 221Kb
+[Mon 16 Apr 19:18:31] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:18:31] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 19:18:31] Event mapchange complex ffa
+[Mon 16 Apr 19:18:50] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:18:50] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:18:52] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:18:52] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:18:55] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:18:55] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:19:08] Event text killme(0)[192.168.0.103][] #slay killme
+[Mon 16 Apr 19:19:12] Event text killme(0)[192.168.0.103][] #slay wtf
+[Mon 16 Apr 19:19:50] Event shutdown 0
+[Mon 16 Apr 19:19:53] server started
+[Mon 16 Apr 19:19:53] => memory usage: 568Kb (347Kb on init) diff: 221Kb
+[Mon 16 Apr 19:19:58] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:19:58] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 19:19:58] Event mapchange complex ffa
+[Mon 16 Apr 19:20:01] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:20:01] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:20:03] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:20:03] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:20:06] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:20:06] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:20:31] Event shutdown 0
+[Mon 16 Apr 19:20:32] server started
+[Mon 16 Apr 19:20:32] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 19:20:48] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:20:48] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 19:20:48] Event mapchange complex ffa
+[Mon 16 Apr 19:20:51] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:20:51] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:21:14] Event shutdown 0
+[Mon 16 Apr 19:21:33] server started
+[Mon 16 Apr 19:21:33] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 19:21:36] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:21:36] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 19:21:36] Event mapchange complex ffa
+[Mon 16 Apr 19:21:38] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:21:40] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:21:40] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:21:58] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:21:58] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:22:01] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:22:01] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:25:04] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:25:04] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:25:26] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:25:26] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:25:58] Event shutdown 0
+[Mon 16 Apr 19:26:00] server started
+[Mon 16 Apr 19:26:00] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 19:26:10] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:26:10] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 19:26:10] Event mapchange complex ffa
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:26:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:27:17] Event shutdown 0
+[Mon 16 Apr 19:27:18] server started
+[Mon 16 Apr 19:27:18] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 19:27:33] Event shutdown 0
+[Mon 16 Apr 19:27:38] server started
+[Mon 16 Apr 19:27:38] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 19:27:40] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:27:40] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 19:27:40] Event mapchange complex ffa
+[Mon 16 Apr 19:37:50] Event mapchange douze ffa
+[Mon 16 Apr 19:48:00] Event mapchange ot ffa
+[Mon 16 Apr 19:49:32] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:49:32] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:51:34] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:51:34] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:51:53] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:51:53] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:52:35] Event shutdown 0
+[Mon 16 Apr 19:52:36] server started
+[Mon 16 Apr 19:52:36] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 19:52:49] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:52:49] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 19:52:49] Event mapchange complex ffa
+[Mon 16 Apr 19:52:54] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:52:54] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:54:53] Event shutdown 0
+[Mon 16 Apr 19:54:54] server started
+[Mon 16 Apr 19:54:54] => memory usage: 568Kb (347Kb on init) diff: 221Kb
+[Mon 16 Apr 19:55:17] Event shutdown 0
+[Mon 16 Apr 19:55:18] server started
+[Mon 16 Apr 19:55:18] => memory usage: 568Kb (347Kb on init) diff: 221Kb
+[Mon 16 Apr 19:55:23] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:55:23] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:55:23] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 19:55:37] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:55:42] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 19:55:42] Event mapchange dust2 ffa
+[Mon 16 Apr 19:55:45] Event disconnect killme(0)[192.168.0.103][] normal
+[Mon 16 Apr 19:55:45] Event connect killme(1)[192.168.0.103][]
+[Mon 16 Apr 19:55:45] Event spectator killme(1)[192.168.0.103][] 1
+[Mon 16 Apr 19:55:53] Event spectator killme(1)[192.168.0.103][] 0
+[Mon 16 Apr 19:57:40] Event shutdown 0
+[Mon 16 Apr 19:57:41] server started
+[Mon 16 Apr 19:57:41] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 19:57:45] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:57:45] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:57:45] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 19:57:57] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 19:58:03] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 19:58:03] Event mapchange dust2 ffa
+[Mon 16 Apr 19:58:08] Event disconnect killme(0)[192.168.0.103][] normal
+[Mon 16 Apr 19:58:08] Event connect killme(1)[192.168.0.103][]
+[Mon 16 Apr 19:58:08] Event spectator killme(1)[192.168.0.103][] 1
+[Mon 16 Apr 19:58:12] Event spectator killme(1)[192.168.0.103][] 0
+[Mon 16 Apr 19:58:34] Event spectator killme(1)[192.168.0.103][] 1
+[Mon 16 Apr 19:58:38] Event spectator killme(1)[192.168.0.103][] 0
+[Mon 16 Apr 19:58:39] Event spectator killme(1)[192.168.0.103][] 1
+[Mon 16 Apr 19:59:14] Event shutdown 0
+[Mon 16 Apr 19:59:46] server started
+[Mon 16 Apr 19:59:46] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 19:59:49] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 19:59:49] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 19:59:49] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 20:00:09] Event disconnect killme(0)[192.168.0.103][] normal
+[Mon 16 Apr 20:00:09] Event connect killme(1)[192.168.0.103][]
+[Mon 16 Apr 20:00:09] Event spectator killme(1)[192.168.0.103][] 1
+[Mon 16 Apr 20:00:09] Event mapvote killme(1)[192.168.0.103][] complex ffa
+[Mon 16 Apr 20:00:23] Event spectator killme(1)[192.168.0.103][] 0
+[Mon 16 Apr 20:00:26] Event mapvote killme(1)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 20:00:26] Event mapchange dust2 ffa
+[Mon 16 Apr 20:00:29] Event disconnect killme(1)[192.168.0.103][] normal
+[Mon 16 Apr 20:00:29] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 20:00:29] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 20:01:21] Event shutdown 0
+[Mon 16 Apr 20:01:23] server started
+[Mon 16 Apr 20:01:23] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 20:01:29] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 20:01:29] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 20:01:29] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 20:01:42] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 20:01:44] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 20:01:44] Event mapchange dust2 ffa
+[Mon 16 Apr 20:01:47] Event disconnect killme(0)[192.168.0.103][] normal
+[Mon 16 Apr 20:01:47] Event connect killme(1)[192.168.0.103][]
+[Mon 16 Apr 20:01:47] Event spectator killme(1)[192.168.0.103][] 1
+[Mon 16 Apr 20:01:55] Event disconnect killme(1)[192.168.0.103][] normal
+[Mon 16 Apr 20:01:55] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 20:01:55] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 20:01:57] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 20:03:25] Event shutdown 0
+[Mon 16 Apr 20:03:26] server started
+[Mon 16 Apr 20:03:26] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 20:03:55] Event shutdown 0
+[Mon 16 Apr 20:03:59] server started
+[Mon 16 Apr 20:03:59] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 20:04:04] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 20:04:04] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 20:04:05] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 20:04:16] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 20:04:20] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 20:04:20] Event mapchange dust2 ffa
+[Mon 16 Apr 20:12:35] Event shutdown 0
+[Mon 16 Apr 20:12:37] server started
+[Mon 16 Apr 20:12:37] => memory usage: 570Kb (347Kb on init) diff: 223Kb
+[Mon 16 Apr 20:12:45] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 20:12:45] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 20:12:45] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 20:12:49] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 20:12:57] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 20:12:58] Event mapchange dust2 ffa
+[Mon 16 Apr 20:13:00] Event disconnect killme(0)[192.168.0.103][] normal
+[Mon 16 Apr 20:13:00] Event connect killme(1)[192.168.0.103][]
+[Mon 16 Apr 20:13:00] Event spectator killme(1)[192.168.0.103][] 1
+[Mon 16 Apr 20:13:05] Event spectator killme(1)[192.168.0.103][] 0
+[Mon 16 Apr 20:13:06] Event spectator killme(1)[192.168.0.103][] 1
+[Mon 16 Apr 20:13:08] Event spectator killme(1)[192.168.0.103][] 0
+[Mon 16 Apr 20:15:02] Event shutdown 0
+[Mon 16 Apr 20:15:03] server started
+[Mon 16 Apr 20:15:03] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 20:15:10] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 20:15:10] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 20:15:10] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 20:15:13] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 20:15:16] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 20:15:16] Event mapchange dust2 ffa
+[Mon 16 Apr 20:15:18] Event disconnect killme(0)[192.168.0.103][] normal
+[Mon 16 Apr 20:15:18] Event connect killme(1)[192.168.0.103][]
+[Mon 16 Apr 20:15:18] Event spectator killme(1)[192.168.0.103][] 1
+[Mon 16 Apr 20:15:21] Event spectator killme(1)[192.168.0.103][] 0
+[Mon 16 Apr 20:15:21] Event spectator killme(1)[192.168.0.103][] 1
+[Mon 16 Apr 20:16:24] Event shutdown 0
+[Mon 16 Apr 20:16:25] server started
+[Mon 16 Apr 20:16:25] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Mon 16 Apr 20:16:32] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 20:16:32] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 20:16:32] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Mon 16 Apr 20:16:35] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 20:16:37] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Mon 16 Apr 20:16:37] Event mapchange dust2 ffa
+[Mon 16 Apr 20:16:41] Event disconnect killme(0)[192.168.0.103][] normal
+[Mon 16 Apr 20:16:41] Event connect killme(1)[192.168.0.103][]
+[Mon 16 Apr 20:16:41] Event spectator killme(1)[192.168.0.103][] 1
+[Mon 16 Apr 20:16:45] Event spectator killme(1)[192.168.0.103][] 0
+[Mon 16 Apr 20:16:49] Event disconnect killme(1)[192.168.0.103][] normal
+[Mon 16 Apr 20:16:49] Event connect killme(0)[192.168.0.103][]
+[Mon 16 Apr 20:16:49] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 20:16:51] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 20:16:51] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 20:16:54] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 20:16:54] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 20:16:59] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 20:17:01] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 20:17:05] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 20:17:07] Event spectator killme(0)[192.168.0.103][] 1
+[Mon 16 Apr 20:17:08] Event spectator killme(0)[192.168.0.103][] 0
+[Mon 16 Apr 20:20:30] Event connect eXtremouse(1)[87.164.2.168][Germany]
+[Mon 16 Apr 20:20:49] Event text killme(0)[192.168.0.103][] hi 
+[Mon 16 Apr 20:21:02] Event text killme(0)[192.168.0.103][] who are you?
+[Mon 16 Apr 20:21:25] Event text eXtremouse(1)[87.164.2.168][Germany] a man
+[Mon 16 Apr 20:21:30] Event text eXtremouse(1)[87.164.2.168][Germany] ^^
+[Mon 16 Apr 20:21:36] Event text killme(0)[192.168.0.103][] :P
+[Mon 16 Apr 20:21:44] Event text eXtremouse(1)[87.164.2.168][Germany] 1 v1 1 ^^
+[Mon 16 Apr 20:21:50] Event text killme(0)[192.168.0.103][] nah
+[Mon 16 Apr 20:22:00] Event text killme(0)[192.168.0.103][] i'm trying to fix ma stuff
+[Mon 16 Apr 20:22:03] Event disconnect killme(0)[192.168.0.103][] normal
+[Mon 16 Apr 20:22:03] Event connect killme(2)[192.168.0.103][]
+[Mon 16 Apr 20:22:03] Event spectator killme(2)[192.168.0.103][] 1
+[Mon 16 Apr 20:22:07] Event spectator killme(2)[192.168.0.103][] 0
+[Mon 16 Apr 20:22:30] Event text eXtremouse(1)[87.164.2.168][Germany]  im a hacker ^^
+[Mon 16 Apr 20:22:37] Event text killme(2)[192.168.0.103][] oh really?
+[Mon 16 Apr 20:22:53] Event mapvote killme(2)[192.168.0.103][] map coop edit
+[Mon 16 Apr 20:23:00] Event text eXtremouse(1)[87.164.2.168][Germany] jes but i have only jumphack because its funny ^^
+[Mon 16 Apr 20:23:19] Event text eXtremouse(1)[87.164.2.168][Germany] no aimbot or wallhack
+[Mon 16 Apr 20:23:29] Event text eXtremouse(1)[87.164.2.168][Germany] only jumphack ^^
+[Mon 16 Apr 20:26:01] Event text killme(2)[192.168.0.103][] lagger 2 :P
+[Mon 16 Apr 20:26:47] Event mapchange dust2 coop edit
+[Mon 16 Apr 20:26:55] Event text eXtremouse(1)[87.164.2.168][Germany] Funny ^^
+[Mon 16 Apr 20:27:04] Event text eXtremouse(1)[87.164.2.168][Germany] you are good
+[Mon 16 Apr 20:28:35] Event text killme(2)[192.168.0.103][] ?
+[Mon 16 Apr 20:28:39] Event text killme(2)[192.168.0.103][] :D
+[Mon 16 Apr 20:28:44] Event text killme(2)[192.168.0.103][] bam
+[Mon 16 Apr 20:28:48] Event shutdown 0
+[Mon 16 Apr 20:28:50] server started
+[Mon 16 Apr 20:29:03] Event shutdown 0
+[Tue 17 Apr 07:19:49] server started
+[Tue 17 Apr 07:19:49] => memory usage: 569Kb (347Kb on init) diff: 222Kb
+[Tue 17 Apr 07:20:00] Event connect killme(0)[192.168.0.103][]
+[Tue 17 Apr 07:20:00] Event spectator killme(0)[192.168.0.103][] 1
+[Tue 17 Apr 07:20:00] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Tue 17 Apr 07:20:04] Event spectator killme(0)[192.168.0.103][] 0
+[Tue 17 Apr 07:20:07] Event text killme(0)[192.168.0.103][] #help
+[Tue 17 Apr 07:20:10] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Tue 17 Apr 07:20:10] Event mapchange dust2 ffa
+[Tue 17 Apr 07:20:45] Event shutdown 0
+[Tue 17 Apr 07:20:48] server started
+[Tue 17 Apr 07:21:17] Event shutdown 0
+[Tue 17 Apr 07:21:19] server started
+[Tue 17 Apr 07:21:35] Event shutdown 0
+[Tue 17 Apr 07:21:37] server started
+[Tue 17 Apr 07:21:37] => memory usage: 397Kb (347Kb on init) diff: 50Kb
+[Tue 17 Apr 07:21:44] Event connect killme(0)[192.168.0.103][]
+[Tue 17 Apr 07:21:44] Event spectator killme(0)[192.168.0.103][] 1
+[Tue 17 Apr 07:21:44] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Tue 17 Apr 07:21:46] Event spectator killme(0)[192.168.0.103][] 0
+[Tue 17 Apr 07:21:50] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Tue 17 Apr 07:21:50] Event mapchange dust2 ffa
+[Tue 17 Apr 07:21:59] Event text killme(0)[192.168.0.103][] #help
+[Tue 17 Apr 07:23:05] Event shutdown 0
+[Tue 17 Apr 07:23:07] server started
+[Tue 17 Apr 07:23:07] => memory usage: 397Kb (347Kb on init) diff: 50Kb
+[Tue 17 Apr 07:23:13] Event connect killme(0)[192.168.0.103][]
+[Tue 17 Apr 07:23:13] Event spectator killme(0)[192.168.0.103][] 1
+[Tue 17 Apr 07:23:13] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Tue 17 Apr 07:23:17] Event spectator killme(0)[192.168.0.103][] 0
+[Tue 17 Apr 07:23:21] Event text killme(0)[192.168.0.103][] #help
+[Tue 17 Apr 07:23:53] Event shutdown 0
+[Tue 17 Apr 07:23:54] server started
+[Tue 17 Apr 07:23:54] => memory usage: 397Kb (347Kb on init) diff: 50Kb
+[Tue 17 Apr 07:24:22] Event shutdown 0
+[Tue 17 Apr 07:24:24] server started
+[Tue 17 Apr 07:24:24] => memory usage: 397Kb (347Kb on init) diff: 50Kb
+[Tue 17 Apr 07:24:27] Event connect killme(0)[192.168.0.103][]
+[Tue 17 Apr 07:24:27] Event spectator killme(0)[192.168.0.103][] 1
+[Tue 17 Apr 07:24:27] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Tue 17 Apr 07:24:31] Event text killme(0)[192.168.0.103][] #help
+[Tue 17 Apr 07:24:38] Event text killme(0)[192.168.0.103][] #enable
+[Tue 17 Apr 07:24:44] Event text killme(0)[192.168.0.103][] #enable_command
+[Tue 17 Apr 07:25:37] Event shutdown 0
+[Tue 17 Apr 07:25:38] server started
+[Tue 17 Apr 07:25:38] => memory usage: 397Kb (347Kb on init) diff: 50Kb
+[Tue 17 Apr 07:25:57] Event shutdown 0
+[Tue 17 Apr 07:25:58] server started
+[Tue 17 Apr 07:25:58] => memory usage: 397Kb (347Kb on init) diff: 50Kb
+[Tue 17 Apr 07:26:01] Event connect killme(0)[192.168.0.103][]
+[Tue 17 Apr 07:26:01] Event spectator killme(0)[192.168.0.103][] 1
+[Tue 17 Apr 07:26:01] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Tue 17 Apr 07:26:07] Event text killme(0)[192.168.0.103][] #help
+[Tue 17 Apr 07:26:18] Event text killme(0)[192.168.0.103][] #enable_command
+[Tue 17 Apr 07:27:09] Event shutdown 0
+[Tue 17 Apr 20:14:57] server started
+[Tue 17 Apr 20:14:57] => memory usage: 399Kb (347Kb on init) diff: 52Kb
+[Tue 17 Apr 20:15:03] Event connect killme(0)[192.168.0.103][]
+[Tue 17 Apr 20:15:03] Event spectator killme(0)[192.168.0.103][] 1
+[Tue 17 Apr 20:15:03] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Tue 17 Apr 20:15:07] Event spectator killme(0)[192.168.0.103][] 0
+[Tue 17 Apr 20:15:10] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Tue 17 Apr 20:15:10] Event mapchange dust2 ffa
+[Tue 17 Apr 20:24:31] Event text killme(0)[192.168.0.103][] #help
+[Tue 17 Apr 20:24:58] Event shutdown 0
+[Tue 17 Apr 20:25:00] server started
+[Tue 17 Apr 20:25:00] => memory usage: 399Kb (347Kb on init) diff: 52Kb
+[Tue 17 Apr 20:25:10] Event connect killme(0)[192.168.0.103][]
+[Tue 17 Apr 20:25:10] Event spectator killme(0)[192.168.0.103][] 1
+[Tue 17 Apr 20:25:10] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Tue 17 Apr 20:25:13] Event disconnect killme(0)[192.168.0.103][] normal
+[Tue 17 Apr 20:25:13] Event connect killme(1)[192.168.0.103][]
+[Tue 17 Apr 20:25:13] Event spectator killme(1)[192.168.0.103][] 1
+[Tue 17 Apr 20:25:13] Event mapvote killme(1)[192.168.0.103][] complex ffa
+[Tue 17 Apr 20:25:26] Event spectator killme(1)[192.168.0.103][] 0
+[Tue 17 Apr 20:25:27] Event mapvote killme(1)[192.168.0.103][] dust2 ffa
+[Tue 17 Apr 20:25:27] Event mapchange dust2 ffa
+[Tue 17 Apr 20:25:32] Event text killme(1)[192.168.0.103][] #help
+[Tue 17 Apr 20:25:54] Event shutdown 0
+[Tue 17 Apr 20:25:55] server started
+[Tue 17 Apr 20:25:55] => memory usage: 399Kb (347Kb on init) diff: 52Kb
+[Tue 17 Apr 20:26:01] Event connect killme(0)[192.168.0.103][]
+[Tue 17 Apr 20:26:01] Event spectator killme(0)[192.168.0.103][] 1
+[Tue 17 Apr 20:26:01] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Tue 17 Apr 20:26:04] Event spectator killme(0)[192.168.0.103][] 0
+[Tue 17 Apr 20:26:06] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Tue 17 Apr 20:26:06] Event mapchange dust2 ffa
+[Tue 17 Apr 20:26:12] Event text killme(0)[192.168.0.103][] #help
+[Tue 17 Apr 20:26:16] Event text killme(0)[192.168.0.103][] #help a b c
+[Tue 17 Apr 20:32:24] Event shutdown 0
+[Tue 17 Apr 20:32:25] server started
+[Tue 17 Apr 20:32:25] => memory usage: 399Kb (347Kb on init) diff: 52Kb
+[Tue 17 Apr 20:32:35] Event connect killme(0)[192.168.0.103][]
+[Tue 17 Apr 20:32:35] Event spectator killme(0)[192.168.0.103][] 1
+[Tue 17 Apr 20:32:35] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Tue 17 Apr 20:32:38] Event spectator killme(0)[192.168.0.103][] 0
+[Tue 17 Apr 20:32:40] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Tue 17 Apr 20:32:40] Event mapchange dust2 ffa
+[Tue 17 Apr 20:32:44] Event text killme(0)[192.168.0.103][] #help
+[Tue 17 Apr 20:32:50] Event text killme(0)[192.168.0.103][] #help aaa a a
+[Tue 17 Apr 20:33:03] Event text killme(0)[192.168.0.103][] #help elp
+[Tue 17 Apr 20:33:06] Event text killme(0)[192.168.0.103][] #help help
+[Tue 17 Apr 20:33:11] Event text killme(0)[192.168.0.103][] #help help help help
+[Tue 17 Apr 20:33:55] Event shutdown 0
+[Tue 17 Apr 20:33:56] server started
+[Tue 17 Apr 20:33:56] => memory usage: 399Kb (347Kb on init) diff: 52Kb
+[Tue 17 Apr 20:34:02] Event connect killme(0)[192.168.0.103][]
+[Tue 17 Apr 20:34:02] Event spectator killme(0)[192.168.0.103][] 1
+[Tue 17 Apr 20:34:02] Event mapvote killme(0)[192.168.0.103][] complex ffa
+[Tue 17 Apr 20:34:05] Event spectator killme(0)[192.168.0.103][] 0
+[Tue 17 Apr 20:34:08] Event mapvote killme(0)[192.168.0.103][] dust2 ffa
+[Tue 17 Apr 20:34:08] Event mapchange dust2 ffa
+[Tue 17 Apr 20:34:11] Event text killme(0)[192.168.0.103][] #help
+[Tue 17 Apr 20:34:16] Event text killme(0)[192.168.0.103][] #help help
+[Tue 17 Apr 20:34:42] Event shutdown 0

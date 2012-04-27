@@ -1,0 +1,10 @@
+/home/bram/alphaserv-master/release_build/src/fungu/src/net/http/CMakeFiles/fungu_http.dir
+/home/bram/alphaserv-master/release_build/src/fungu/src/CMakeFiles/fungu_string.dir
+/home/bram/alphaserv-master/release_build/src/geoip/CMakeFiles/geoip.dir
+/home/bram/alphaserv-master/release_build/src/lsqlite3-7/CMakeFiles/lsqlite3.dir
+/home/bram/alphaserv-master/release_build/src/lua/src/CMakeFiles/lua.dir
+/home/bram/alphaserv-master/release_build/src/CMakeFiles/lua_modules.dir
+/home/bram/alphaserv-master/release_build/src/CMakeFiles/luapp.dir
+/home/bram/alphaserv-master/release_build/src/luasql/CMakeFiles/luasql_mysql.dir
+/home/bram/alphaserv-master/release_build/src/CMakeFiles/sauertools.dir
+/home/bram/alphaserv-master/release_build/src/socket/src/CMakeFiles/socket.dir

@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC    -shared -Wl,-soname,libluasql_mysql.so -o libluasql_mysql.so CMakeFiles/luasql_mysql.dir/src/luasql.c.o CMakeFiles/luasql_mysql.dir/src/ls_mysql.c.o -L/usr/local/mysql/lib -lz -lmysqlclient ../lua/src/liblua.so -ldl -Wl,-rpath,/usr/local/mysql/lib:/home/bram/alphaserv-master/release_build/src/lua/src: 

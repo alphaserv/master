@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblsqlite3.a  CMakeFiles/lsqlite3.dir/lsqlite3.c.o
+/usr/bin/ranlib liblsqlite3.a
