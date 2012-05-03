@@ -3,9 +3,11 @@
 #include "lua/event.hpp"
 #include "hopmod.hpp"
 #include <iostream>
+#include <string>
 #include <boost/asio.hpp>
 #include "scheduler.cpp"
 using namespace boost::asio;
+using namespace std;
 
 static io_service main_io_service;
 
@@ -84,12 +86,13 @@ int main(int argc, char ** argv)
 		bind_function(L, T, "interval", lua::interval);
 		
 		
-/*		lua_pushliteral(L, "vars");
+		lua_pushliteral(L, "vars");
 		lua_newtable(L);
 		int vars_table = lua_gettop(L);
 		
-		luapp::init_constants(L, vars_table);
-		luapp::init_variables(L, vars_table);
+		lua_pushstring(L, "dummy_name");
+		lua_pushstring(L, "dummy_value");
+		lua_settable(L, vars_table);
 		
 		lua_settable(L, -3); // Add vars table to core table*/
 		lua_setglobal(L, "core"); // Add core table to global table

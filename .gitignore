@@ -3,6 +3,7 @@ conf/*
 log/*.log
 log/*.pid
 *_build
+*.ignore
 serverexec
 core
 0
