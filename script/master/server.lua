@@ -1,5 +1,10 @@
 
 module("master.server", package.seeall)
+
+local secrets = {
+	AAAAAAAAA = true
+}
+
 server_obj = class.new(nil, {
 	server = nil,
 	accepted_server = nil,
@@ -9,6 +14,8 @@ server_obj = class.new(nil, {
 	__init = function(self, ip, port)
 		self.server, error_ = net.tcp_acceptor(ip, port)
 		
+		print(ip, port)
+		
 		if not self.server then
 			error("Failed to open a listen socket on " .. ip .. ":" .. port .. ": " .. error_, 1)
 		end
@@ -16,8 +23,6 @@ server_obj = class.new(nil, {
 		self.server:listen()
 		
 		print("Masterserver listning on %(1)s:%(2)s" % { ip, port })
-		
-		self:accept()
 	end,
 	
 	accept = function(self)
@@ -55,16 +60,72 @@ server_obj = class.new(nil, {
 				
 				if data == "" then return end
 				
+				--strip \n
 				data = data:gsub("\n", "")
-				
+			
 				arguments = data:split(" ")
 				
 				--process the data
 				print("calling: %(1)s" % {arguments[1]})
 				
+				--send serverlist
 				if arguments[1] == "list" then
 					self:send_serverlist()
 					self:close_current()
+					return
+				
+				--send list of reserved names
+				elseif arguments[1] == "names" then
+					local msg = json.encode(alphaserv.db:query("SELECT name FROM names"):fetch())
+					msg = msg:gsub("\n", "\\n")
+					self:send("namelist %(1)s", msg)
+				
+				--send list of clantags
+				elseif arguments[1] == "clans" then
+					local msg = json.encode(alphaserv.db:query("SELECT tag FROM clans"):fetch())
+					msg = msg:gsub("\n", "\\n")
+					self:send("clanlist %(1)s", msg)
+				
+				--login request
+				elseif arguments[1] == "auth" then
+					--auth secret cn session_id hashed_password name
+				
+					if not secrets[arguments[2]] then
+						self:send("login_fail %(1)i incorrect secret", arguments[4])
+					else
+				
+						local res = alphaserv.sb:query([[
+							SELECT
+								users.id,
+								users.username,
+								users.password,
+								users.email
+							FROM
+								users,
+								names
+							WHERE
+								names.user_id = users.id
+							AND
+								names.name = ?
+							]], arguments[6])--name
+					
+						if res:num_rows() < 1 then
+							self:send("login_fail %(1)i unkown name", arguments[4])
+						elseif res:num_rows() > 1 then --should not be possible
+							self:send("login_fail %(1)i ambigious", arguments[4])
+						else
+							local row = res:fetch()
+						
+							if crypto.tigersum(string.format("%i %i %s", argument[3], argument[4], row.password)) == argument[5] then
+
+						
+								self:send("login_fail %(1)i %(2)q %(3)q", arguments[4],  "aaa", json.encode({email = row.email}))
+							else
+								self:send("login_fail %(1)i incorrect password", arguments[4])
+							end
+						end
+					end
+				
 				elseif arguments[1] == "reqauth" and false then
 										
 						-- ReqAuth Handler
@@ -126,5 +187,5 @@ server_obj = class.new(nil, {
 	
 })
 
-local master = server_obj(alpha.settings:get("master_ip"), alpha.settings:get("master_port"))
-master:accept()
+local master = server_obj("", 28787)
+--master:accept()

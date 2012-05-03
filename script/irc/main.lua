@@ -59,7 +59,9 @@ channel_obj = class.new(nil, {
 		if self.joined_channel then
 			return
 		end
+		
 		self.network:send("JOIN %(1)s", function() end, self.name)
+		self.joined_channel = true
 	end,
 	
 	joined = function(self)
@@ -67,8 +69,9 @@ channel_obj = class.new(nil, {
 	end,
 	
 	after_join = function(self)
-		if self.join_msg ~= "" then
+		if self.join_msg ~= "" and not self.sent_joinmessage then
 			self.network:send("PRIVMSG %(1)s :%(2)s", function() end, self.name, self.join_msg)
+			self.sent_joinmessage = true
 		end
 		
 		self.network:send("NAMES %(1)s", function() end, self.name)
@@ -289,6 +292,13 @@ network_obj = class.new(nil, {
 				if data.find(data,"PING") then
 					local pong = string.gsub(data,"PING","PONG",1)
 					self:send(pong, function() end)
+
+				--:*!~*@* INVITE alphabot #...
+				elseif data:match("^(.-)!.+ INVITE "..self.nick.." #(.*)") then				
+					local nick, cn = data:match("^(.-)!.+ INVITE "..self.nick.." #(.*)")
+					print(nick.." invites us. joining #"..cn)
+					self:add_channel("#"..cn)
+					self:join_channels()
 					
 				--:nick!~...@... JOIN :#...
 				elseif data:match("^:"..self.nick.."!~"..self.username.."@.- JOIN :#(.-)") then
@@ -340,8 +350,8 @@ network_obj = class.new(nil, {
 						print("[IRC] OPS: "..ops)
 
 						self.channels["#"..channel]:update_players(ops)
-					end				
-										
+					end
+			
 				elseif data:match("NOTICE "..self.nick) then
 					self:ready()
 				elseif data.find(data,"Closing Link") then

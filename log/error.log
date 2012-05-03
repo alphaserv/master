@@ -1,4 +1,0 @@
-Error on text event: script/alphaserv/packages/command_L/core.lua:124: bad argument #1 to 'concat' (table expected, got nil)
-stack traceback:
-	[C]: in function 'concat'
-	script/alphaserv/packages/command_L/core.lua:124: in function <script/alphaserv/packages/command_L/core.lua:118>

@@ -1,0 +1,2 @@
+run "compile.sh" to install
+and "bin/server luapp init.lua" for the server

@@ -4,16 +4,16 @@ require("net")
 module("master", package.seeall)
 --[[ Confiruation Part ]]--
 
-alpha.settings.init_setting("master_port", 28787, "int", "the port to run the masterserver on")
-alpha.settings.init_setting("master_ip", "0.0.0.0", "string", "the ip to run the masterserver on")
+alpha.settings.new_setting("master_port", 28787, "the port to run the masterserver on")
+alpha.settings.new_setting("master_ip", "0.0.0.0", "the ip to run the masterserver on")
 
-alpha.settings.init_setting("master_extern_port", 28787, "int", "the port of an external masterserver to sync with")
-alpha.settings.init_setting("master_extern_host", "sauerbraten.org", "string", "the host of an external masterserver to sync with")
+alpha.settings.new_setting("master_extern_port", 28787, "the port of an external masterserver to sync with")
+alpha.settings.new_setting("master_extern_host", "sauerbraten.org", "the host of an external masterserver to sync with")
 
-alpha.settings.init_setting("master_extern_sync", true, "bool", "enable sync with external masterserver")
+alpha.settings.new_setting("master_extern_sync", true, "enable sync with external masterserver")
 
-alpha.settings.init_setting("master_debug", true, "bool", "debug masterserver")
-alpha.settings.init_setting("master_colors", true, "bool", "color masterserver messages")
+alpha.settings.new_setting("master_debug", true, "debug masterserver")
+alpha.settings.new_setting("master_colors", true, "color masterserver messages")
 
 --[[ Rewritten part]]--
 
@@ -94,6 +94,6 @@ end
 
 
 --addserver ("psl.sauerleague.org", 10000)
-dofile(PREFIX.."master/client.lua")
+--`dofile(PREFIX.."master/client.lua")
 dofile(PREFIX.."master/server.lua")
 
