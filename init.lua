@@ -44,10 +44,10 @@ if server.file_exists("conf/core.lua") then
 	alpha.load.file("conf/core.lua", true)
 end
 
+config_loaded()
+
 --force proper configuration scheme
 alpha.settings.write("conf/core.lua")
-
-config_loaded()
 
 pre_started()
 
