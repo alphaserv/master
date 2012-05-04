@@ -31,6 +31,8 @@ local config_loaded = server.create_event_signal("config_loaded")
 local pre_started = server.create_event_signal("pre_started")
 local started = server.create_event_signal("started")
 
+alpha.load.file("utils")
+
 alpha.load.file("core/logging")
 
 alpha.load.file("core/settings")
